@@ -9,3 +9,21 @@ A ideia da Arquitetura Hexagonal é colocar entradas e saídas nas bordas de nos
 Vídeo explicando essa arquitetura: https://youtu.be/1PMCPgRIqNE
 
 ![Projeto](Arquitetura%20Hexagonal.png)
+
+
+#### H2 Console
+```{{base_url}}/h2```
+
+#### Endpoints:
+
+##### Insert
+
+```POST {{base_url}}/produtos```
+
+##### Update
+
+```PUT {{base_url}}/produtos/1```
+
+##### List
+
+```GET {{base_url}}/produtos```

@@ -1,0 +1,1 @@
+insert into produtos (codigo,nome,preco,quantidade,sku) values ('fd85d58b886f4d0e815db9e73fda3782','Teste',2,10,'1');
